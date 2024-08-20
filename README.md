@@ -3,11 +3,19 @@ Llama-3 app with RAG to chat with PDF in just 30 lines of Python Code. The app u
 
 
 1. Clone the github repository:
+
+```bash
    git clone https://github.com/Saifouh/RAG_Llama-3_chat_with_PDF.git
-  
-3. Install Required Libraries:
+```
+
+2. Install Required Libraries:
+   
+```bash
    pip install streamlit
    pip install embedchain
+```
+3. Run streamlit app:
    
-4. Run streamlit app:
+```bash
    streamlit run Chat_PDF_Llama-3.py
+```
